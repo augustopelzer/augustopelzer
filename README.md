@@ -1,7 +1,7 @@
 - My portfolio: https://augustopelzer.github.io/portfolio-augustopelzer/
 - 👋 Hi, I’m @augustopelzer
 - 👀 I’m interested in JavaScript, CSS, Java, Phyton, C++, ...
-- 🌱 I’m currently learning Bootcamp of https://www.dio.me/ - TQI Fullstack Developer
+- 🌱 I’m currently learning Bootcamp of https://www.dio.me/ - Spring Framework Experience
 - 💞️ I’m looking to collaborate on everything possible
 - 📫 How to reach me augustopelzer@gmail.com
 
